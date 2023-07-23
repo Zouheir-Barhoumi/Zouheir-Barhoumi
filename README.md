@@ -3,6 +3,7 @@
 - 🌱 I’m currently working on creating my own programming langauge
 - 💞️ Looking to collaborate on ideas for new versioning tools or anything related to web dev or blockchain
 - 📫 How to reach me: on my email zouheir.barhoumi@gmail.com — on gitter: @zouheirbarhoumi
+- Checkout my blog: zouheir-barhoumi.github.io/blog
 
 <!---
 Zouheir-Barhoumi/Zouheir-Barhoumi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
