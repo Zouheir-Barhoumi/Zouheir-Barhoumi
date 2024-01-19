@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zouheir Barhoumi, a Full Stack Software Developer
+- 👋 Hi, I’m Zuhayr Barhoumi, a Full Stack Software Developer
 - 👀 I’m interested in Full-Stack Web Development and all sorts of new technologies: Web3.0, Blockchain in Advertisement, and Cyber-Security
 - 🌱 I’m currently working on creating my own programming langauge
 - 💞️ Looking to collaborate on ideas for new versioning tools or anything related to web dev or blockchain
