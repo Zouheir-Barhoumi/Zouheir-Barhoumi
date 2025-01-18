@@ -2,7 +2,7 @@
 - 👀 Interested in Full-Stack Web Development and all sorts of technologies: AI, Real-time applications, Blockchain and Web3.0, Cyber-Security...
 - 🌱 Currently working on my own programming langauge and other side projects
 - 💞️ Looking to collaborate on ideas for new versioning tools or anything in C or JavaScript
-- 📫 Reach me on my email zouheir.barhoumi@gmail.com — Or telegram: [@zouheirbarhoumi](https://t.me/Zuhayr1)
+- 📫 Reach me on my email zouheir.barhoumi@gmail.com — Or telegram: [@zouheirbarhoumi](https://t.me/Zouheir011)
 - Checkout my blog: zouheir-barhoumi.github.io/blog
 
 <!---
